@@ -15,7 +15,7 @@
   2. *Add Note Page :* Allows user to create new notes by dictating their speech, which is transcribed into text.
   3. *Notes List Page :* Displays all saved nots in the list format.
   4. *Edit Note Page :* Enables users to modify an existing note.
-  5. *Download Page :*Enables the user to download the notes in **.pdf** format.
+  5. *Download Page :* Enables the user to download the notes in **.pdf** format.
   
   ## Tech Stack
   1. Frontend :
