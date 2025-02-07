@@ -26,6 +26,30 @@
   1. Backend :
      - Flask
      - MongoDb
+     
+# Images of the website
+
+## Home page
+
+<img src="./images/Home.jpg"/>
+
+## Add Notes page
+
+<img src="./images/Add Note Screen.jpg"/>
+
+## Notes List page
+
+<img src="./images/List.jpg"/>
+
+## Edit Note page 
+
+<img src="./images/Edit Note Page.jpg"/>
+
+## Download page
+
+<img src="./images/Download.png"/>
+
+
   
 
      
