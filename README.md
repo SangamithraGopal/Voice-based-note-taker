@@ -27,7 +27,7 @@
      - Flask
      - MongoDb
      
-# Images of the website
+# Images 
 
 ## Home page
 
