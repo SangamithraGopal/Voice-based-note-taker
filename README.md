@@ -7,15 +7,14 @@
   ## Objective
   - **Voice enabled note taking application**.
   - To create a simple user friendly design that works across devies like **desktop** , **mobile**.
-  - Offer a download option to export notes as **PDFs**.
+  - Offer a download option to export notes as **.txt**.
   - Utilize **speech-to-text technology** for accurate transcription.
 
   ## Project Workflow
-  1. *Home Page :* The main page where the user can record note using voice input and view previously created notes.
-  2. *Add Note Page :* Allows user to create new notes by dictating their speech, which is transcribed into text.
-  3. *Notes List Page :* Displays all saved nots in the list format.
-  4. *Edit Note Page :* Enables users to modify an existing note.
-  5. *Download Page :* Enables the user to download the notes in **.pdf** format.
+  1. *Home Page :*
+      - The main page where the user can record note using voice input and view the text.
+      - In the home page itself they can delete,copy and download the text into **.tst** format.
+      - You can view the instructions to how to use the microphone as **text converter** in the home page. 
   
   ## Tech Stack
   1. Frontend :
@@ -24,8 +23,9 @@
       - JavaScript
       - Web Speech API
   1. Backend :
-     - Flask
-     - MongoDb
+     -
+# Deployment Link
+ **Link** : https://voice-notes-three.vercel.app/
      
 # Images 
 
@@ -33,21 +33,8 @@
 
 <img src="./images/Home.jpg"/>
 
-## Add Notes page
 
-<img src="./images/Add Note Screen.jpg"/>
 
-## Notes List page
-
-<img src="./images/List.jpg"/>
-
-## Edit Note page 
-
-<img src="./images/Edit Note Page.jpg"/>
-
-## Download page
-
-<img src="./images/Download.png"/>
 
 
   
